@@ -20,7 +20,7 @@ Microsoft Excel was used as the raw data source. Power Query handled data cleani
 
 ## Project Files
 
-The raw dataset file is `GlobalMart_Raw_Dataset.xlsx`, the original uncleaned data with 2,090 records. The cleaned dataset is contains 2,010 cleaned records. The Power BI dashboard file and screenshots cover the Operations and Profitability dashboards. The power point above is the 10-slide executive presentation. This file, `README.md`, documents the full process.
+The raw dataset file is `GlobalMart_Raw_Dataset.xlsx`, the original uncleaned data with 2,090 records. The cleaned dataset contains 2,010 cleaned records. The Power BI dashboard file and screenshots cover the Operations and Profitability dashboards. The power point above is the 10-slide executive presentation. This file, `README.md`, documents the full process.
 
 ---
 
@@ -66,9 +66,11 @@ The result was 2,090 raw records reduced to 2,010 validated, analysis-ready reco
 ## Dashboards
 
 **Dashboard 1: Supply Chain Operations**
+<img width="971" height="548" alt="globalmartsupply" src="https://github.com/user-attachments/assets/903de229-3711-4a50-9208-5c86c661e81d" />
 
 
 **Dashboard 2: Business Performance & Profitability**
+<img width="976" height="549" alt="global" src="https://github.com/user-attachments/assets/31911e45-a33c-4aa4-a950-270d9d118890" />
 
 
 **DAX Measures Used**
